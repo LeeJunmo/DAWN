@@ -42,7 +42,8 @@ You can download our paper's implementation version or directly customize the da
 - You can generate a customized dataset with different hyperparameter settings (e.g. deadline, threshold) with ```construct_data.py``` files. 
 
 - First, `obj_base_data.pkl` files should be located in the `main/obj/` directory.
-  * For exmple, relative path for gossipcop `pkl` file should follow the form as `main/gossipcop/gossipcop_base_data.pkl`
+  * Please download the files using the link provided above, and use the `obj_base_data.pkl` file from the downloaded files.
+  * For example, relative path for gossipcop `pkl` file should follow the form as `main/gossipcop/gossipcop_base_data.pkl`
 
 - Second, select your desired hyperparameters as follows.
 
