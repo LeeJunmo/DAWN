@@ -71,7 +71,7 @@ You can run the model our paper's best performance hyperparameter set or your de
 sh run.sh
 ```
 
-### 2. Use paper's implementation version
+### 2. Use customized version
 
 - You can use your customized dataset and select your desired hyperparameters as follows.
 
