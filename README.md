@@ -15,7 +15,7 @@ Junghoon Kim, Junmo Lee, Yeonjun In, Kanghoon Yoon, and Chanyoung Park
 Social graph-based fake news detection aims to identify news articles containing false information by utilizing social contexts, e.g., user information, tweets and comments. However, conventional methods are evaluated under less realistic scenarios, where the model has access to future knowledge on article-related and context-related data during training. In this work, we newly formalize a more realistic evaluation scheme that mimics real-world scenarios, where the data is ***temporality-aware*** and the detection model can only be trained on data collected up to a certain point in time. We show that the discriminative capabilities of conventional methods decrease sharply under this new setting, and further propose **DAWN**, a method more applicable to such scenarios. Our empirical findings indicate that later engagements (e.g., consuming or reposting news) contribute more to noisy edges that link real news-fake news pairs in the social graph. Motivated by this, we utilize feature representations of engagement earliness to guide an edge weight estimator to suppress the weights of such noisy edges, thereby enhancing the detection performance of **DAWN**. Through extensive experiments, we demonstrate that **DAWN** outperforms existing fake news detection methods under real-world environments.
 
 ## Overall Architecture
-<p align="center"><img width="1000" src="./images/architecture.png"></p>
+<p align="center"><img width="300" height="300" src="./images/architecture.png"></p>
 
 ## Requirements
 - python=3.9.18
