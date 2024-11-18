@@ -78,7 +78,7 @@ sh run.sh
 
 - You can use your customized dataset and select your desired hyperparameters as follows.
 
-  * #### Short Explanations for model hyperparameters
+  * #### Short Explanations for feature construction/model hyperparameters
 
     * `--dead_criterion:` deadline for engagements ($t_d$ in our paper) / should follow the form as `'12hrs'` or `'30m'`
 
