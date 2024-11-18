@@ -100,5 +100,13 @@ sh run.sh
 python run.py --dataset_name 'gossipcop' --gpu 5 --epochs 1000 --iters 5 --dead_criterion "12hrs" --early_thres 0.7 --sampling_num 10000 --margin 0.0 --alpha 0.3
 ```
 
+### Models
+`model.py`: implementation file of DAWN
 
+### Others
+`TweetTimeline.txt`: txt file for calculating real-world time from tweet id
+
+`TimestampEstimator.py`: python file for converting tweet id to real-world time ( adapted from TweetedAt )
+
+`utils.py`: utils for DAWN
 
