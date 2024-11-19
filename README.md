@@ -30,6 +30,8 @@ Social graph-based fake news detection aims to identify news articles containing
 
 ## Data Download/Customization
 
+Our work is based on the `PolitiFact` and `GossipCop` datasets from the [FakeNewsNet benchmark](https://github.com/KaiDMML/FakeNewsNet).
+
 You can download our paper's implementation version or directly customize the dataset with different hyperparameters. Here's the following procedures.
 
 ### 1. Use paper's implementation version
