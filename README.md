@@ -117,12 +117,12 @@ python run.py --dataset_name 'gossipcop' --gpu 5 --epochs 1000 --iters 5 --dead_
   - Junghoon Kim*, Junmo Lee*, Yeonjin In, Kanghoon Yoon, and Chanyoung Park. "Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness" WSDM 2025.
   - Bibtex
 
-'''
+```
 @article{kim2024revisiting,
   title={Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness},
   author={Kim, Junghoon and Lee, Junmo and In, Yeonjun and Yoon, Kanghoon and Park, Chanyoung},
   journal={arXiv preprint arXiv:2411.12775},
   year={2024}
 }
-'''
+```
 
