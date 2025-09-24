@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/WSDM'25-brightgreen" /></a>
 </p>
 
-The source code of the novel method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g ( **DAWN** ) from the paper "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness]()" at WSDM 2025.
+The source code of the novel method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g ( **DAWN** ) from the paper "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness](https://dl.acm.org/doi/10.1145/3701551.3703524)" at WSDM 2025.
 
 Junghoon Kim*, Junmo Lee*, Yeonjun In, Kanghoon Yoon, and Chanyoung Park
 
