@@ -1,7 +1,10 @@
 # [TIST 26] A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation
 
-This repository contains the official implementation of **DAWN**, proposed in our journal paper 
+This repository contains the official implementation of **DAWN**, a method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g.
 
+This work was originally published at WSDM 2025 as "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness]([https://dl.acm.org/doi/pdf/10.1145/3701551.3703524])", and has been subsequently extended into the journal version:
+
+"A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation", accepted to ACM Transactions on Intelligent Systems and Technology (TIST), 2026.
 
 
 <p align="center">   
@@ -10,8 +13,6 @@ This repository contains the official implementation of **DAWN**, proposed in ou
     <a href="https://www.wsdm-conference.org/2025/" alt="Conference">
         <img src="https://img.shields.io/badge/WSDM'25-brightgreen" /></a>
 </p>
-
-The source code of the novel method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g ( **DAWN** ) from the paper "[A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation]([https://dl.acm.org/doi/10.1145/3701551.3703524](https://dl.acm.org/doi/pdf/10.1145/3815193))" at TIST 2026.
 
 Junghoon Kim*, Junmo Lee*, Yeonjun In, Kanghoon Yoon, and Chanyoung Park
 
