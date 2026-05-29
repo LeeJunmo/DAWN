@@ -2,9 +2,9 @@
 
 This repository contains the official implementation of **DAWN**, a method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g.
 
-This work was originally published at WSDM 2025 as "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness]([https://dl.acm.org/doi/pdf/10.1145/3701551.3703524])", and has been subsequently extended into the journal version:
+This work was originally published at WSDM 2025 as "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness](https://dl.acm.org/doi/pdf/10.1145/3701551.3703524)", and has been subsequently extended into the journal version:
 
-"A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation", accepted to ACM Transactions on Intelligent Systems and Technology (TIST), 2026.
+[**"A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation"**](https://dl.acm.org/doi/pdf/10.1145/3815193), accepted to ACM Transactions on Intelligent Systems and Technology (TIST), 2026.
 
 
 <p align="center">   
