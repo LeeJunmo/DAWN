@@ -1,3 +1,4 @@
+# [TIST 26] A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation
 # [WSDM'25] Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness
 
 <p align="center">   
@@ -118,11 +119,22 @@ python run.py --dataset_name 'gossipcop' --gpu 5 --epochs 1000 --iters 5 --dead_
   - Bibtex
 
 ```
-@article{kim2024revisiting,
-  title={Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness},
+@article{kim2026new,
+  title={A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation},
   author={Kim, Junghoon and Lee, Junmo and In, Yeonjun and Yoon, Kanghoon and Park, Chanyoung},
-  journal={arXiv preprint arXiv:2411.12775},
-  year={2024}
+  journal={ACM Transactions on Intelligent Systems and Technology},
+  year={2026},
+  publisher={ACM New York, NY}
+}
+```
+
+```
+@inproceedings{kim2025revisiting,
+  title={Revisiting fake news detection: Towards temporality-aware evaluation by leveraging engagement earliness},
+  author={Kim, Junghoon and Lee, Junmo and In, Yeonjun and Yoon, Kanghoon and Park, Chanyoung},
+  booktitle={Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+  pages={559--567},
+  year={2025}
 }
 ```
 
