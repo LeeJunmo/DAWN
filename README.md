@@ -1,5 +1,8 @@
 # [TIST 26] A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation
-# [WSDM'25] Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness
+
+This repository contains the official implementation of **DAWN**, proposed in our journal paper 
+
+
 
 <p align="center">   
     <a href="https://pytorch.org/" alt="PyTorch">
@@ -8,7 +11,7 @@
         <img src="https://img.shields.io/badge/WSDM'25-brightgreen" /></a>
 </p>
 
-The source code of the novel method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g ( **DAWN** ) from the paper "[Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness](https://dl.acm.org/doi/10.1145/3701551.3703524)" at WSDM 2025.
+The source code of the novel method for **D**etecting fake news via e**A**rliness-guided re**W**eighti**N**g ( **DAWN** ) from the paper "[A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation]([https://dl.acm.org/doi/10.1145/3701551.3703524](https://dl.acm.org/doi/pdf/10.1145/3815193))" at TIST 2026.
 
 Junghoon Kim*, Junmo Lee*, Yeonjun In, Kanghoon Yoon, and Chanyoung Park
 
@@ -115,7 +118,7 @@ python run.py --dataset_name 'gossipcop' --gpu 5 --epochs 1000 --iters 5 --dead_
 
 ### Cite
 - If you find ``DAWN`` useful in your research, please cite the following paper:
-  - Junghoon Kim*, Junmo Lee*, Yeonjin In, Kanghoon Yoon, and Chanyoung Park. "Revisiting Fake News Detection: Towards Temporality-aware Evaluation by Leveraging Engagement Earliness" WSDM 2025.
+  - Junghoon Kim*, Junmo Lee*, Yeonjin In, Kanghoon Yoon, and Chanyoung Park. "A New DAWN for Fake News Detection: Exploiting Engagement Earliness for Temporality-aware Evaluation" TIST 2026.
   - Bibtex
 
 ```
@@ -127,6 +130,7 @@ python run.py --dataset_name 'gossipcop' --gpu 5 --epochs 1000 --iters 5 --dead_
   publisher={ACM New York, NY}
 }
 ```
+- The earlier conference version appeared at WSDM:
 
 ```
 @inproceedings{kim2025revisiting,
